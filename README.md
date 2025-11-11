@@ -1,4 +1,4 @@
-# VIBE MATCHER – AI Fashion Recommender  
+#  VIBE MATCHER – AI Fashion Recommender  
 
 A mini recommendation system that matches user “vibes” with fashion products using text embeddings and cosine similarity.  
 

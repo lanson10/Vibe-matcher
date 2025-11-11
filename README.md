@@ -1,8 +1,7 @@
-#  VIBE MATCHER – AI Fashion Recommender  
+# Vibe Matcher
 
-A mini recommendation system that matches user “vibes” with fashion products using text embeddings and cosine similarity.  
+A mini AI recommendation system that matches user "vibes" with fashion products using text embeddings and cosine similarity.  
+Built as part of a placement assignment for Nexora.
 
-## Open the Notebook in Google Colab  
+[Open in Colab](https://colab.research.google.com/drive/1I2TfuWj2RAFoSf4i1x5VNrAYDHRMbkph?usp=sharing)
 
-You can view or run the notebook directly here:  
- [Open in Colab]([https://colab.research.google.com/drive/1AbCdEfGhIjKlMnOpQrStUvWxYz](https://colab.research.google.com/drive/1I2TfuWj2RAFoSf4i1x5VNrAYDHRMbkph?usp=sharing))
